@@ -11,7 +11,7 @@
     <meta name="keywords" content="Airbnb, bnb, Matakana, Omaha,">
     <meta name="author" content="Josh Burgess">
     
-    <title> Green Room 1</title>
+    <title> Green Room 2</title>
     
     <!-- link to css goes here -->
     <link href="css/airbnb_style.css" rel="stylesheet">
